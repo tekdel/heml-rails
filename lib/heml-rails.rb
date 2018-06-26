@@ -1,4 +1,4 @@
-class Heml
+module Heml
 	module Rails
 	end
 end
